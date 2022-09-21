@@ -1,0 +1,13 @@
+body{
+	background-color: grey;
+}
+.none{
+	color: black;
+}
+.abc{
+	float: right;
+	font-size: 20px;
+	color: blue;
+	padding-top: 10px;
+	
+}
